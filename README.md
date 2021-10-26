@@ -14,7 +14,8 @@ Rest we are looking for leads.
 #### Contract <b>0xf6aba0d60a55e77a8924e75382a45802acafc09f</b>
 #### LP is now Live on PancakeSwap.
 https://pancakeswap.finance/info/token/0xf6aba0d60a55e77a8924e75382a45802acafc09f
-## LP is Locked for 2 years for the Circulation supply as documented in the whitepaper.
+## Token and LP is Locked for 2 years for the Circulation supply as documented in the whitepaper.
+https://cointool.app/token/lock?a=0x8c1b3ef9e3b35e371d44004a30d235894b709f58&c=56
 https://cointool.app/token/lock?a=0xf6aba0d60a55e77a8924e75382a45802acafc09f&c=56
 
 
