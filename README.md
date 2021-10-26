@@ -21,6 +21,9 @@ Tres Leches Cake is a fascinating and rich one. The idea behind this token is to
 2. https://t.me/TresLechesCakeOfficial_ES - Official Spanish
 3. https://t.me/TresLechesCakeOfficial_PT - Portuguese
 
+# Official Discord Server
+1. https://discord.gg/ep29yETXFC
+
 We are looking for community leaders, all work is volunteer.
 
 https://t.me/TresLechesToken - English - Archived data 10/29/2021
