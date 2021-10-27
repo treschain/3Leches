@@ -1,14 +1,14 @@
 {
     "name": "Tres Leches Cake",
     "website": "https://tresleches.finance",
-    "description": "Digital Cryptocurrency Token of the most amazing desert the Tres Leches Cake",
+    "description": "A cryptocurrency so sweet you can actually taste it",
     "explorer": "https://bscscan.com/token/0xf6aba0d60a55e77a8924e75382a45802acafc09f",
     "symbol": "3Leches",
     "type": "BEP2",
     "decimals": 9,
     "status": "active",
     "tags": [
-        "meme"
+        "memes"
     ],
     "links": [
         {
@@ -17,7 +17,7 @@
         },
         {
             "name": "telegram",
-            "url": "http://t.me/TresLechesToken"
+            "url": "https://t.me/TresLechesCakeOfficial"
         },
         {
             "name": "twitter",
@@ -26,6 +26,10 @@
         {
             "name": "whitepaper",
             "url": "https://github.com/3LechesCake/3Leches/raw/main/Whitepaper/TresLeches_WhitePaper_en.pdf"
+        }
+ {
+            "name": "discord",
+            "url": "https://discord.gg/ep29yETXFC"
         }
     ]
 }
