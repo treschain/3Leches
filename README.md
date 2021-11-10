@@ -8,11 +8,17 @@ Tres Leches Cake is a fascinating and rich one. The idea behind this token is to
 3. 3% (2% Marketing Wallet + 1% Dev Wallet)
 4. 1% Liquidity Pool.
 
+# Binance V2 Contract
+
+
 # Cardano Token
 1. https://pool.pm/c089872446f88d702198a621014b44da0081a58d8d0096fbb4d1b947.3LechesCake
 
 # Solana Token
 1. ENJm611c5aM8Hur9f6oqvLyjU6PjyAA63Pxs8EZ4RrNo https://explorer.solana.com/address/ENJm611c5aM8Hur9f6oqvLyjU6PjyAA63Pxs8EZ4RrNo
+
+# Solana NFT
+1. https://explorer.solana.com/address/D2m2WoHKXdahVwA6gUxqfuCgxbUWv1S9y2p4mMRqnuWi 1 out of 1.
 
 # Etherum Bridge will be scheduled for 2022.
 
