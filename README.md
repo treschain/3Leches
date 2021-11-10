@@ -11,6 +11,9 @@ Tres Leches Cake is a fascinating and rich one. The idea behind this token is to
 # Cardano Token
 1. https://pool.pm/c089872446f88d702198a621014b44da0081a58d8d0096fbb4d1b947.3LechesCake
 
+# Solana Token
+1. ENJm611c5aM8Hur9f6oqvLyjU6PjyAA63Pxs8EZ4RrNo Contract #.
+
 # Etherum Bridge will be scheduled for 2022.
 
 
