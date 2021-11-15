@@ -1,5 +1,6 @@
-# Tres Leches Token $3Leches
+# Tres Leches Token $3LechesCake
 Repository to store the Tres Leches Cake Token Digital Asset, Whitepaper and Solidity Contract for the community to contribute as well as other key areas.
+
 Tres Leches Cake is a fascinating and rich one. The idea behind this token is to create a version of this delicious dessert in the cryptocurrency world as a meme token. However, like many memes, we want to give an excellent purpose and utility to the token. Our main goal will be to use the token as a channel to get a potential scholarship for college students. The idea will be to create a scholarship wallet where we will drop 5% of the total supply and select a winner each semester to award the scholarship. We know how hard it is for people to accomplish their goals and how the world makes it harder to attend a good education.
 
 # Binance Tokenomics
@@ -8,7 +9,13 @@ Tres Leches Cake is a fascinating and rich one. The idea behind this token is to
 3. 3% (2% Marketing Wallet + 1% Dev Wallet)
 4. 1% Liquidity Pool.
 
+Binance Scholarship Wallet: 0x558B624De1d61379E0A131C7a9C6F6D9DcC14abE {PoweredBy} Gnosis Safe
+Binance Marketing Wallet: 0xEcC075cB2926564568F0b7C9a98ac0DC496817D1 {PowerBy} Gnosos Safe.
+https://bsc.gnosis-safe.io/
+
 # Binance V2 Contract
+0x3e83C58B1C01C4F8c1ab1c9f4df969601e2e7EE6
+https://www.bscscan.com/token/0x3e83C58B1C01C4F8c1ab1c9f4df969601e2e7EE6
 
 
 # Cardano Token
@@ -36,15 +43,16 @@ Tres Leches Cake is a fascinating and rich one. The idea behind this token is to
 We are looking for community leaders, all work is volunteer.
 
 https://t.me/TresLechesToken - English - Archived data 10/29/2021
-Rest we are looking for leads.
 
-#### V2 Contract TBD
+
+#### V2 Contract https://www.bscscan.com/token/0x3e83C58B1C01C4F8c1ab1c9f4df969601e2e7EE6
 
 #### V1 Contract <b>0xf6aba0d60a55e77a8924e75382a45802acafc09f</b> as of (Oct-25-2021 04:27:56 PM +UTC) we have dumped all tokens into the Liquidity Pool and tokens are fully manage by the community until 2023 when the tokens and lp will be unlocked. Since this was based on the safemoon contract, we have decided to move away from this contract and start a new contract with better tokenomics.
 #### V1 Tokenomics.
-1. 5% to all holders.
-2. 5% to Liquidity Pool
-3. 2% to Scholarship Wallet
+1. 5% to all holders. - as of 11/15/2021 this has been set to 0%
+2. 5% to Liquidity Pool - as of 11/15/2021 this as been set to 0%
+3. 2% to Scholarship Wallet - as of 11/15/2021 this has been changed to DEAD
+
 #### V1 LP on PancakeSwap.
 https://pancakeswap.finance/info/token/0xf6aba0d60a55e77a8924e75382a45802acafc09f
 ## V1 Token and LP is Locked for 2 years for the Circulation supply as documented in the whitepaper.
