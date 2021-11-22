@@ -40,6 +40,9 @@ https://www.bscscan.com/token/0x3e83C58B1C01C4F8c1ab1c9f4df969601e2e7EE6
 # Official Discord Server
 1. https://discord.gg/ep29yETXFC
 
+# Bitcoin Talk Conversation
+1. https://bitcointalk.org/index.php?topic=5372667
+
 We are looking for community leaders, all work is volunteer.
 
 https://t.me/TresLechesToken - English - Archived data 10/29/2021
