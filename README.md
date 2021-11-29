@@ -17,6 +17,9 @@ https://bsc.gnosis-safe.io/
 0x3e83C58B1C01C4F8c1ab1c9f4df969601e2e7EE6
 https://www.bscscan.com/token/0x3e83C58B1C01C4F8c1ab1c9f4df969601e2e7EE6
 
+# Binance NFT Contract
+1. https://bscscan.com/token/0xca76f5e6c9469dba1cc15414b6402d1b66867da0 - First NFT to be Mint will have 500 NFT Created and then will be locked, then we will start the international Tres Leches Cake Series.
+
 
 # Cardano Token
 1. https://pool.pm/c089872446f88d702198a621014b44da0081a58d8d0096fbb4d1b947.3LechesCake
