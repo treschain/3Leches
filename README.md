@@ -3,6 +3,8 @@ Repository to store the Tres Leches Cake Token Digital Asset, Whitepaper and Sol
 
 Tres Leches Cake is a fascinating and rich one. The idea behind this token is to create a version of this delicious dessert in the cryptocurrency world as a meme token. However, like many memes, we want to give an excellent purpose and utility to the token. Our main goal will be to use the token as a channel to get a potential scholarship for college students. The idea will be to create a scholarship wallet where we will drop 5% of the total supply and select a winner each semester to award the scholarship. We know how hard it is for people to accomplish their goals and how the world makes it harder to attend a good education.
 
+# V2 Contract Pre-Sale will be on https://pinksale.finance, link will be updated here.
+
 # Binance Tokenomics
 1. 5% Cake Rewards to all Holders
 2. 2% Scholarship Wallet - Secured by Gnosis Safe
@@ -10,16 +12,23 @@ Tres Leches Cake is a fascinating and rich one. The idea behind this token is to
 4. 1% Liquidity Pool.
 
 Binance Scholarship Wallet: 0x558B624De1d61379E0A131C7a9C6F6D9DcC14abE {PoweredBy} Gnosis Safe
-Binance Marketing Wallet: 0xEcC075cB2926564568F0b7C9a98ac0DC496817D1 {PowerBy} Gnosos Safe.
+Binance Development Wallet: 0xEcC075cB2926564568F0b7C9a98ac0DC496817D1 {PoweredBy} Gnosis Safe.
+Binance Marketing Wallet: 0xaCB48ee17DDfd41a3273837238D10C4680d40206 {PoweredBy} Gnosis
 https://bsc.gnosis-safe.io/
 
+Cake Owner and Deployer Wallet: 0x063f608bD5eF234F937BAb2B78218A939589CA3E
+
 # Binance V2 Contract
-0x3e83C58B1C01C4F8c1ab1c9f4df969601e2e7EE6
-https://www.bscscan.com/token/0x3e83C58B1C01C4F8c1ab1c9f4df969601e2e7EE6
+0xD1CEE2a7673173ec6b8a4a0A71d81c50346a9eb1
+https://www.bscscan.com/token/0xD1CEE2a7673173ec6b8a4a0A71d81c50346a9eb1
 
 # Binance NFT Contract
 1. https://bscscan.com/token/0xca76f5e6c9469dba1cc15414b6402d1b66867da0 - First NFT to be Mint will have 500 NFT Created and then will be locked, then we will start the international Tres Leches Cake Series.
 
+Our NFT Platform will contain a DAPP Development and potentially a collection launched on PancakeSwap, we are going to mint the following Series.
+### Launch NFT Total 500 - 300 out 500 Minted
+### Tres Leches Cake Recipe Total 135  To be Minted on 2022
+### TRes Leches Cake Christmas Special Total 24 To be Minted on December 24th 2021.
 
 # Cardano Token
 1. https://pool.pm/c089872446f88d702198a621014b44da0081a58d8d0096fbb4d1b947.3LechesCake
