@@ -3,7 +3,9 @@ Repository to store the Tres Leches Cake Token Digital Asset, Whitepaper and Sol
 
 Tres Leches Cake is a fascinating and rich one. The idea behind this token is to create a version of this delicious dessert in the cryptocurrency world as a meme token. However, like many memes, we want to give an excellent purpose and utility to the token. Our main goal will be to use the token as a channel to get a potential scholarship for college students. The idea will be to create a scholarship wallet where we will drop 5% of the total supply and select a winner each semester to award the scholarship. We know how hard it is for people to accomplish their goals and how the world makes it harder to attend a good education.
 
-# V2 Contract Pre-Sale will be on https://pinksale.finance, link will be updated here.
+# V3 Fair Launch.
+https://www.pinksale.finance/#/launchpad/0x1C9D18FEA1e5bB9b7b78945247b66515330A9eBd?chain=BSC
+
 
 # Binance Tokenomics
 1. 5% Cake Rewards to all Holders
@@ -18,9 +20,9 @@ https://bsc.gnosis-safe.io/
 
 Cake Owner and Deployer Wallet: 0x063f608bD5eF234F937BAb2B78218A939589CA3E
 
-# Binance V2 Contract
-0xD1CEE2a7673173ec6b8a4a0A71d81c50346a9eb1
-https://www.bscscan.com/token/0xD1CEE2a7673173ec6b8a4a0A71d81c50346a9eb1
+# Binance V3 Contract
+0x106FEFf621a395043b21a602D4b6a2039e16bBeC
+https://bscscan.com/address/0x106FEFf621a395043b21a602D4b6a2039e16bBeC
 
 # Binance NFT Contract
 1. https://bscscan.com/token/0xca76f5e6c9469dba1cc15414b6402d1b66867da0 - First NFT to be Mint will have 500 NFT Created and then will be locked, then we will start the international Tres Leches Cake Series.
