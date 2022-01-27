@@ -6,6 +6,13 @@ Tres Leches Cake is a fascinating and rich one. The idea behind this token is to
 # V3 Fair Launch.
 https://www.pinksale.finance/#/launchpad/0x1C9D18FEA1e5bB9b7b78945247b66515330A9eBd?chain=BSC
 
+# V3 Liquidity Lock.
+https://www.pinksale.finance/#/pinklock/record/15008?chain=BSC
+
+# V3 Buy Link.
+https://pancakeswap.finance/swap?inputCurrency=0x106feff621a395043b21a602d4b6a2039e16bbec
+https://www.flooz.trade/wallet/0x106feff621a395043b21a602d4b6a2039e16bbec/
+
 
 # Binance Tokenomics
 1. 5% Cake Rewards to all Holders
