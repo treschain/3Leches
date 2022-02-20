@@ -31,13 +31,16 @@ Cake Owner and Deployer Wallet: 0x063f608bD5eF234F937BAb2B78218A939589CA3E
 0x106FEFf621a395043b21a602D4b6a2039e16bBeC
 https://bscscan.com/address/0x106FEFf621a395043b21a602D4b6a2039e16bBeC
 
-# Binance NFT Contract
+# Binance NFT Contract Governance for voting rights.
 1. https://bscscan.com/token/0xca76f5e6c9469dba1cc15414b6402d1b66867da0 - First NFT to be Mint will have 500 NFT Created and then will be locked, then we will start the international Tres Leches Cake Series.
 
 Our NFT Platform will contain a DAPP Development and potentially a collection launched on PancakeSwap, we are going to mint the following Series.
-### Launch NFT Total 500 - 300 out 500 Minted
-### Tres Leches Cake Recipe Total 135  To be Minted on 2022
-### TRes Leches Cake Christmas Special Total 24 To be Minted on December 24th 2021.
+### Launch NFT Total 500 - 500 out 500 Minted - Governance
+### Dessert Rolodex Limited Collection 225 BSC and 225 Polygon
+# Tres Leches NFT Limited
+https://bscscan.com/address/0x0cfdb195a36bb0ce7d5fefccba4bae11d4b0d1d3
+https://polygonscan.com/address/0x1345102a63b646716b90dca20a3eb56f46b7583b
+
 
 # Cardano Token
 1. https://pool.pm/c089872446f88d702198a621014b44da0081a58d8d0096fbb4d1b947.3LechesCake
