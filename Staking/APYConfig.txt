@@ -1,0 +1,25 @@
+Option 1.
+A. 5% APY x 15 Days
+B. 15% APY x 30 Days
+C. 25 % APY x 60 Days
+
+A
+5
+0x84f2eba9F77A3ac7d5A2E8256186E1e3C108F2f7
+true
+15
+https://bscscan.com/tx/0xa523abf1fae794351b7f2f5d62a730f0fead1de618cef92d7f34d95d1bdc3a1b
+
+B
+15
+0x84f2eba9F77A3ac7d5A2E8256186E1e3C108F2f7
+true
+30
+https://bscscan.com/tx/0x000f7570afbdc33493506e2c8ba0c7f95cb0efcb76a7d99d619b23ecec6bc51f
+c
+25
+0x84f2eba9F77A3ac7d5A2E8256186E1e3C108F2f7
+true
+60
+https://bscscan.com/tx/0xa4a978e33856718e34cf9697dd2c6d553205fce033003238d74d5af6543d4775
+
