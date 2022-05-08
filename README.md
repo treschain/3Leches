@@ -41,6 +41,9 @@ Our NFT Platform will contain a DAPP Development and potentially a collection la
 # Tres Leches NFT Limited
 https://bscscan.com/address/0x0cfdb195a36bb0ce7d5fefccba4bae11d4b0d1d3
 https://polygonscan.com/address/0x1345102a63b646716b90dca20a3eb56f46b7583b
+# NFT Minters:
+https://nftminterbsc.tresleches.finance
+https://nftminterpoly.tresleches.finance
 
 
 # Cardano Token
@@ -67,6 +70,10 @@ https://polygonscan.com/address/0x1345102a63b646716b90dca20a3eb56f46b7583b
 
 # Bitcoin Talk Conversation
 1. https://bitcointalk.org/index.php?topic=5372667
+
+# Staking Platform (Live)
+1. https://staking.tresleches.finance
+
 
 We are looking for community leaders, all work is volunteer.
 
